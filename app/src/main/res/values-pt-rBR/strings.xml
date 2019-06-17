@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KeChute</string>
+    <string name="hint_name">Nome do Jogador</string>
+    <string name="btn_comecar">Começar</string>
+    <string-array name="jogadores_array">
+        <item>Mago</item>
+        <item>Guerreiro</item>
+        <item>Barbaro</item>
+    </string-array>
+</resources>
